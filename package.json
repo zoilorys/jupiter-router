@@ -1,6 +1,6 @@
 {
   "name": "jupiter-router",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "## API",
   "main": "index.js",
   "directories": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zoilorys/jupiter-router/issues"
   },
-  "homepage": "https://github.com/zoilorys/jupiter-router#readme"
+  "homepage": "https://github.com/zoilorys/jupiter-router#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
 }
