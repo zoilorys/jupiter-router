@@ -1,0 +1,23 @@
+{
+  "name": "jupiter-router",
+  "version": "0.0.0",
+  "description": "## API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --recursive --require babel/register",
+    "watch": "./node_modules/.bin/mocha --recursive --require babel/register --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoilorys/jupiter-router.git"
+  },
+  "author": "Zoilorys <zoilorys@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoilorys/jupiter-router/issues"
+  },
+  "homepage": "https://github.com/zoilorys/jupiter-router#readme"
+}
